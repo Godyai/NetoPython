@@ -1,0 +1,15 @@
+scrumble_egg_tomato
+2
+eggs | 2 | piece
+tomato | 100 | gr.
+steak
+3
+meat | 300 | gr.
+spices | 5 | gr.
+olive_oil | 100 | ml.
+salad
+4
+tomato | 100 | gr.
+cucamber | 100 | gr.
+olive_oil | 100 | ml.
+onion | 1 | piece
